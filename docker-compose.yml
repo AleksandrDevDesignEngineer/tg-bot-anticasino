@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  telegram-bot:
+    build: .
+    container_name: casino-telegram-bot
+    environment:
+      - TOKEN=8395798407:AAF0k1Q3IVmNFsA_YlLbahG0jNNiFj70oJ0
+    volumes:
+      - bot-data:/app/data
+    restart: unless-stopped
+
+volumes:
+  bot-data:

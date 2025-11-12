@@ -1,0 +1,144 @@
+{
+  "204887700": {
+    "last_played": "2025-09-11T10:14:29.158060",
+    "count": 20,
+    "chips": 58250,
+    "wins": {
+      "total": 14,
+      "small": 3,
+      "medium": 5,
+      "jackpot": 6
+    },
+    "last_win": {
+      "type": "small",
+      "time": "2025-09-11T10:13:56.898740",
+      "amount": 150,
+      "value": 1
+    },
+    "total_bet": 11700,
+    "total_won": 64950,
+    "last_bonus": "2025-08-04T10:17:46.174751",
+    "referrals": 1
+  },
+  "875536529": {
+    "last_played": "2025-09-11T10:13:46.755291",
+    "count": 0,
+    "chips": 950,
+    "wins": {
+      "total": 0,
+      "small": 0,
+      "medium": 0,
+      "jackpot": 0
+    },
+    "last_win": null,
+    "total_bet": 50,
+    "total_won": 0,
+    "last_bonus": null,
+    "referrals": 0
+  },
+  "1069844584": {
+    "last_played": "2025-09-11T10:13:46.755292",
+    "count": 0,
+    "chips": 29100,
+    "wins": {
+      "total": 6,
+      "small": 1,
+      "medium": 2,
+      "jackpot": 3
+    },
+    "last_win": {
+      "type": "medium",
+      "time": "2025-08-26T20:14:57.188778",
+      "amount": 1000,
+      "value": 43
+    },
+    "total_bet": 4550,
+    "total_won": 31650,
+    "last_bonus": "2025-08-01T10:19:17.658727",
+    "referrals": 0
+  },
+  "803926022": {
+    "last_played": "2025-09-11T10:13:46.755293",
+    "count": 0,
+    "chips": 250,
+    "wins": {
+      "total": 1,
+      "small": 0,
+      "medium": 1,
+      "jackpot": 0
+    },
+    "last_win": {
+      "type": "medium",
+      "time": "2025-08-01T10:29:53.556007",
+      "amount": 500,
+      "value": 22
+    },
+    "total_bet": 1250,
+    "total_won": 500,
+    "last_bonus": null,
+    "referrals": 0
+  },
+  "723684982": {
+    "last_played": "2025-09-11T10:13:46.755293",
+    "count": 0,
+    "chips": 450,
+    "wins": {
+      "total": 1,
+      "small": 0,
+      "medium": 1,
+      "jackpot": 0
+    },
+    "last_win": {
+      "type": "medium",
+      "time": "2025-08-04T10:27:12.085221",
+      "amount": 500,
+      "value": 22
+    },
+    "total_bet": 2050,
+    "total_won": 500,
+    "last_bonus": "2025-08-04T10:27:01.932658",
+    "referrals": 0
+  },
+  "8056705684": {
+    "last_played": "2025-09-11T10:13:46.755294",
+    "count": 0,
+    "chips": 0,
+    "wins": {
+      "total": 3,
+      "small": 1,
+      "medium": 2,
+      "jackpot": 0
+    },
+    "last_win": {
+      "type": "medium",
+      "time": "2025-08-04T13:24:24.122943",
+      "amount": 1000,
+      "value": 43
+    },
+    "total_bet": 3650,
+    "total_won": 1650,
+    "last_bonus": "2025-08-04T13:24:05.764731",
+    "referrals": 0
+  },
+  "1898847815": {
+    "last_played": "2025-09-11T10:15:24.304798",
+    "count": 20,
+    "chips": 108300,
+    "wins": {
+      "total": 4,
+      "small": 2,
+      "medium": 1,
+      "jackpot": 1
+    },
+    "last_win": {
+      "type": "small",
+      "time": "2025-09-11T10:14:21.537474",
+      "amount": 150,
+      "value": 1
+    },
+    "total_bet": 4000,
+    "total_won": 11300,
+    "last_bonus": null,
+    "referrals": 0
+  }
+}
